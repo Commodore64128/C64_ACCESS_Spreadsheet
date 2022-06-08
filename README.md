@@ -61,4 +61,6 @@ Move the selected cell highlight around and view the contents of the cells, the 
 
 Dump your wonderful spreadsheet to a printer via VICE peripheral settings, default settings should work.
 
+<img src="screenshots\7_Setup_Printer_for_HARD.PNG" width="600px" height="auto">
+
 ### Phillip Eaton 2022-06-09
