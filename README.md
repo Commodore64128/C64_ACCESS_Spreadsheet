@@ -27,6 +27,7 @@ But most importantly, I passed the A-Level :-)
 - Hardcopy to printer (tested on MPS801, example included)
 - Ability to change background colour and display significant digits
 - Online command help
+- Other stuff I can't rememeber (it was 30-odd years ago)
 
 ## Getting Started
 
